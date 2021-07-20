@@ -102,13 +102,13 @@ body {
 /****************************************************************   Mobile   ****/
 .mobile {
     width: 255px;
-    overflow: hidden;
     border-radius: 25px;
+    padding: 10px;  
+    margin-bottom: 30px;
+    overflow: hidden;
     position: relative;
     background-color: white;
     box-shadow : 10px 20px 80px -50px;
-    padding: 10px;  
-    margin-bottom: 30px;
 }
 @media (min-width: 768px) {
     .mobile {
