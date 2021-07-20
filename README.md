@@ -1,1 +1,3 @@
-# Chat-app-CSS-illustration_04
+# Frontend Mentor - Chat app CSS illustration
+
+## Welcome! 👋
